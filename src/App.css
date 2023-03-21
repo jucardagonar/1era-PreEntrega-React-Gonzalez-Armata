@@ -5,13 +5,13 @@
 
 
 @media (prefers-reduced-motion: no-preference) {
-  .App-logo {
+  img {
     animation: App-logo-spin infinite 20s linear;
   }
 }
 
 
-@keyframes img-logo {
+@keyframes img {
   from {
     transform: rotate(0deg);
   }
